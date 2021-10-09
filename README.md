@@ -1,8 +1,8 @@
-# Bot Class
+# Bot Report
 
 ## Description
 
-Bot Class is a Slack Bot for Bersinar Project workspace. It worked as a reminder for Tutor and IT Support for preparing the upcoming class.
+Bot Report is a Slack Bot for Bersinar Project workspace. It worked as a reminder for Bersinar Engineering daily report.
 
 ## Owner
 
